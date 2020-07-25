@@ -1,0 +1,2 @@
+# Basic-ChatBot-Using-RASA
+My first chatbot (a very basic one) with the help of RASA, framework. RASA is a very powerful tool for chat bot development. It is python based framework. Using RASA we can create a basic chatbot within 30 mins or less. This chat bot tells you the time zone of different cities. I have added very few cities for now, but we can use API to access the time zone of all of the cities of the world.
